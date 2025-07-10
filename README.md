@@ -70,7 +70,7 @@ bankist-app/
 
 ---
 
-## 🛠️ Future Enhancements (Optional)
+## 🛠️ Future Enhancements 
 
 - Connect to a backend for persistent user data
 - Add user registration and authentication
@@ -79,9 +79,8 @@ bankist-app/
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
-> Add screenshot images like:
 > <img width="1841" height="815" alt="image" src="https://github.com/user-attachments/assets/5381ce39-b1ed-485c-abe3-f85c124b4c62" />
 
 ---
